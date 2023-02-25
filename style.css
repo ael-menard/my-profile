@@ -1,0 +1,63 @@
+/*colors and fonts*/
+
+body {
+ 	background-color: #D9DCD6;
+ 	color:#FFFFFF;
+}
+
+h1,h2 {
+	font-family: 'Kanit', sans-serif;
+	color: #81C3D7;
+}
+
+h1 {
+	text-align:center;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+ 	color: #000000;
+ 	text-decoration: none;
+}
+
+
+
+
+
+/*divs*/
+
+#pp {
+ 	border-radius: 50%;
+ 	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom:40px;
+}
+
+#button {
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-top:40px;
+  	text-align:center;
+	display:block;
+	background-color:#81C3D7;
+	padding:10px;
+	width:200px;
+	border-radius:5px;
+}
+
+#container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card {
+	background-color: #16425B;
+	padding:40px;
+	margin:30px;
+	box-shadow:0 5px 15px rgba(0,0,0,.5);
+}
+
+
